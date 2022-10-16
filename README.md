@@ -143,7 +143,7 @@ Equivalently, the equation above can be written with binary variables as:
 
 The following equality shows the equivalence of these two formulations:
 
-![equation](https://latex.codecogs.com/gif.latex?%5Cbg_white%20%5Clarge%20N%20-%201%20&plus;%20f_2%20%3D%202%20f_1)
+![equation](https://latex.codecogs.com/gif.latex?%5Cbg_white%20%5Clarge%20N%20-%201%20&plus;%20f_2%20%3D%20(1/2)%20f_1)
 
 
 ### Constraints
